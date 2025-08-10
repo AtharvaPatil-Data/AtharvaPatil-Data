@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="A_rectangular_digital_graphic_design_banner_showca.png" alt="Git-Banner.png" width="100%"/>
+  <img src="./A_rectangular_digital_graphic_design_banner_showca.png" alt="Banner" width="100%" />
 </p>
 
-<!-- Typing intro -->
+<!-- Minimal typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=02D48D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Atharva+Patil;Data+Analyst+%7C+Aspiring+Data+Engineer;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+ML;Based+in+Ireland%2C+open+to+opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2500&pause=900&color=02D48D&center=true&vCenter=true&width=900&lines=Atharva+Patil;Data+Analyst+%7C+Data+Engineer;Python+•+SQL+•+Power+BI+•+Azure" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-### about me
+### About me
 - 🎓 **MSc Data Analytics (DCU)**  
 - 🧰 building **analytics** and **data engineering** projects that deliver business impact  
 - 🇮🇪 based in **Ireland**, targeting **DA/DE** roles (critical skills path)  
@@ -25,14 +25,14 @@
 
 ---
 
-### toolset
+### Toolset
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,azure,git,github,sklearn,py,pandas,numpy,matplotlib,tableau,powerbi,linux&perline=8" />
 </p>
 
 ---
 
-### featured projects
+### Projects
 > quick, high‑signal summaries with links
 
 - **Loan Defaulter Prediction** — ML to flag risky borrowers; **0.99 recall** on defaulter class with ADASYN + Gradient Boosting.  
