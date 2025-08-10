@@ -1,5 +1,5 @@
 <!-- Banner -->
-![GitHub Banner](A_rectangular_digital_graphic_design_banner_showca.png)
+![GitHub Banner](Git-Banner.png)
 
 # 👋 Hi, I'm Atharva Patil  
 
