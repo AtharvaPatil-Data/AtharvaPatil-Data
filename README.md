@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./A_rectangular_digital_graphic_design_banner_showca.png" alt="Banner" width="100%" />
+  <img src="./Git-Banner.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Minimal typing line -->
