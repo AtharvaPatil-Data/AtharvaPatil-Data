@@ -12,20 +12,51 @@
 
 ---
 
-### About me
-- 🎓 **MSc Data Analytics (DCU)**  
-- 🧰 building **analytics** and **data engineering** projects that deliver business impact  
-- 🇮🇪 based in **Ireland**, targeting **DA/DE** roles (critical skills path)  
-- 🧭 currently learning **Airflow • Spark • Azure/Databricks**
+## 📌 About Me
+🎓 MSc in Data Analytics (Dublin City University)  
+🧰 Building **Data Analytics** and **Data Engineering** projects that deliver measurable business impact  
+🇮🇪 Based in Ireland — targeting **Data Analyst** & **Data Engineer** roles   
+🧭 Currently learning **Airflow • Spark • Azure Databricks**
 
----
+### 🛠 Toolset
 
-### Toolset
+#### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,azure,git,github,sklearn,py,pandas,numpy,matplotlib,tableau,powerbi,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="SQL"/>
 </p>
 
----
+#### **Data Analysis**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+#### **Data Engineering**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=azure&theme=light" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+#### **Visualisation**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+#### **Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code"/>
+</p>
+
 
 ### Projects
 > quick, high‑signal summaries with links
