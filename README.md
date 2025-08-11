@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./Git-Banner.png" alt="Banner" width="100%" />
-</p>
-
 <!-- Minimal typing line -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2500&pause=900&color=40E0D0&center=true&vCenter=true&width=900&lines=Atharva+Patil;Data+Analyst+%7C+Data+Engineer;Python+•+SQL+•+Power+BI+•+Azure" alt="Typing intro" />
