@@ -21,127 +21,41 @@
 
 ## 🛠 Skills
 
-### **Programming Languages**
-<div align="center">
+### Programming Languages
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"></a>
+</p>
 
-<table>
-<tr>
-  <td align="center" width="140">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/><br/>
-    <b>Python</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" alt="SQL"/><br/>
-    <b>SQL</b>
-  </td>
-</tr>
-</table>
+### Data Analysis & Machine Learning
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"></a>
+</p>
 
-</div>
+### Data Engineering & Cloud
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge"></a>
+</p>
 
----
+### Data Visualisation
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=power-automate&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge"></a>
+</p>
 
-### **Data Analysis & Machine Learning**
-<div align="center">
-
-<table>
-<tr>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/pandas/150458" width="48" alt="Pandas"/><br/>
-    <b>Pandas</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/numpy/013243" width="48" alt="NumPy"/><br/>
-    <b>NumPy</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" alt="TensorFlow"/><br/>
-    <b>TensorFlow</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" alt="Scikit-Learn"/><br/>
-    <b>Scikit-Learn</b>
-  </td>
-</tr>
-</table>
-
-</div>
-
----
-
-### **Data Engineering & Cloud**
-<div align="center">
-
-<table>
-<tr>
-  <td align="center" width="140">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" alt="Azure"/><br/>
-    <b>Azure Cloud</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" alt="Databricks"/><br/>
-    <b>Azure Databricks</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48" alt="Apache Airflow"/><br/>
-    <b>Apache Airflow</b>
-  </td>
-</tr>
-</table>
-
-</div>
-
----
-
-### **Data Visualisation**
-<div align="center">
-
-<table>
-<tr>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" alt="Power BI"/><br/>
-    <b>Power BI</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/powerautomate/0066FF" width="48" alt="Power Automate"/><br/>
-    <b>Power Automate</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" alt="Tableau"/><br/>
-    <b>Tableau</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" alt="Excel"/><br/>
-    <b>Excel</b>
-  </td>
-</tr>
-</table>
-
-</div>
-
----
-
-### **Other Tools**
-<div align="center">
-
-<table>
-<tr>
-  <td align="center" width="140">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub"/><br/>
-    <b>GitHub</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" alt="Google Colab"/><br/>
-    <b>Google Colab</b>
-  </td>
-  <td align="center" width="140">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/><br/>
-    <b>VS Code</b>
-  </td>
-</tr>
-</table>
-
-</div>
+### Other Tools
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"></a>
+</p>
 
 ---
 
