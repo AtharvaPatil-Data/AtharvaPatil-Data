@@ -114,12 +114,3 @@ Hierarchical e-commerce product categorization using TF-IDF, SMOTE, and an LR/RF
 - 📊 Executive-ready dashboards for actionable decisions  
 
 ---
-
-## 🗺 Roadmap
-```mermaid
-timeline
-    title 2025 Learning Plan
-    Q3 : Airflow pipelines : schedule + monitor ETL
-    Q3 : Azure/Databricks : lakehouse basics + notebooks
-    Q4 : Spark : scalable transforms + joins
-    Q4 : Portfolio polish : 2 DE projects + 1 BI case study
