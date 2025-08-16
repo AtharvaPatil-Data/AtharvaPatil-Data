@@ -49,7 +49,6 @@
     <td align="center"><img src="assets/icons/Microsoft_Azure.svg" width="55"/><br><span style="font-size:14px;"><b>Azure</b></td>
     <td align="center"><img src="assets/icons/Databricks.svg" width="55"/><br><span style="font-size:14px;"><b>Databricks</b></td>
     <td align="center"><img src="assets/icons/Apacheairflow.svg" width="55"/><br><span style="font-size:14px;"><b>Airflow</b></td>
-    <td align="center"><img src="assets/icons/Visual_Studio_Code_1.35_icon.svg" width="55"/><br><b>VS Code</b></td>
   </tr>
 </table>
 
@@ -73,6 +72,7 @@
   <tr>
     <td align="center"><img src="assets/icons/Github.svg" width="55"/><br><span style="font-size:14px;"><b>GitHub</b></td>
     <td align="center"><img src="assets/icons/Googlecolab.svg" width="55"/><br><span style="font-size:14px;"><b>Google Colab</b></td>
+    <td align="center"><img src="assets/icons/Visual_Studio_Code_1.35_icon.svg" width="55"/><br><b>VS Code</b></td>  
   </tr>
 </table>
 
