@@ -6,7 +6,7 @@
 <!-- Social links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-patil2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:atharvarajkumar.patil2@mail.dcu.ie"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:atharva0186@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
