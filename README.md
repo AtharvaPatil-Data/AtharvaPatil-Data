@@ -22,59 +22,58 @@
 ## 🛠 Skills
 
 ### Programming Languages
-<p align="center">
-  <img src="assets/icons/Python.svg" width="40" alt="Python"/><br><b>Python</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/SQL.svg" width="40" alt="SQL"/><br><b>SQL</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/icons/Python.svg" width="40"/><br><b>Python</b></td>
+    <td align="center"><img src="assets/icons/SQL.svg" width="40"/><br><b>SQL</b></td>
+  </tr>
+</table>
 
 ---
 
 ### Data Analysis & Machine Learning
-<p align="center">
-  <img src="assets/icons/Pandas.svg" width="40" alt="Pandas"/><br><b>Pandas</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/Numpy.svg" width="40" alt="NumPy"/><br><b>NumPy</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/Tensorflow.svg" width="40" alt="TensorFlow"/><br><b>TensorFlow</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/Scikitlearn.svg" width="40" alt="Scikit-Learn"/><br><b>Scikit-Learn</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/icons/Pandas.svg" width="40"/><br><b>Pandas</b></td>
+    <td align="center"><img src="assets/icons/Numpy.svg" width="40"/><br><b>NumPy</b></td>
+    <td align="center"><img src="assets/icons/Tensorflow.svg" width="40"/><br><b>TensorFlow</b></td>
+    <td align="center"><img src="assets/icons/Scikitlearn.svg" width="40"/><br><b>Scikit-Learn</b></td>
+  </tr>
+</table>
 
 ---
 
 ### Data Engineering & Cloud
-<p align="center">
-  <img src="assets/icons/Microsoft_Azure.svg" width="40" alt="Azure"/><br><b>Azure</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/Databricks.svg" width="40" alt="Databricks"/><br><b>Databricks</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/Apacheairflow.svg" width="40" alt="Apache Airflow"/><br><b>Apache Airflow</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/Visual_Studio_Code_1.35_icon.svg" width="40" alt="VS Code"/><br><b>VS Code</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/icons/Microsoft_Azure.svg" width="40"/><br><b>Azure</b></td>
+    <td align="center"><img src="assets/icons/Databricks.svg" width="40"/><br><b>Databricks</b></td>
+    <td align="center"><img src="assets/icons/Apacheairflow.svg" width="40"/><br><b>Airflow</b></td>
+    <td align="center"><img src="assets/icons/Visual_Studio_Code_1.35_icon.svg" width="40"/><br><b>VS Code</b></td>
+  </tr>
+</table>
 
 ---
 
 ### Data Visualisation
-<p align="center">
-  <img src="assets/icons/Power_BI.svg" width="40" alt="Power BI"/><br><b>Power BI</b>
-  &nbsp;&nbsp;&nbsp;
-  <b>Power Automate</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/Tableau_Logo.png" width="40" alt="Tableau"/><br><b>Tableau</b>
-  &nbsp;&nbsp;&nbsp;
-  <b>Excel</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/icons/Power_BI.svg" width="40"/><br><b>Power BI</b></td>
+    <td align="center"><b>Power Automate</b></td>
+    <td align="center"><img src="assets/icons/Tableau_Logo.png" width="40"/><br><b>Tableau</b></td>
+    <td align="center"><b>Excel</b></td>
+  </tr>
+</table>
 
 ---
 
 ### Other Tools
-<p align="center">
-  <img src="assets/icons/Github.svg" width="40" alt="GitHub"/><br><b>GitHub</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/Googlecolab.svg" width="40" alt="Google Colab"/><br><b>Google Colab</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/icons/Github.svg" width="40"/><br><b>GitHub</b></td>
+    <td align="center"><img src="assets/icons/Googlecolab.svg" width="40"/><br><b>Google Colab</b></td>
+  </tr>
+</table>
 
 ---
 
