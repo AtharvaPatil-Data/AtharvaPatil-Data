@@ -23,38 +23,45 @@
 
 ### Programming Languages
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>  
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL"/>  
 </p>
+
+---
 
 ### Data Analysis & Machine Learning
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>  
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/>  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow"/>  
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" alt="Scikit-Learn"/>  
 </p>
+
+---
 
 ### Data Engineering & Cloud
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge"></a>
+  <img src="assets/icons/azure.svg" width="40" alt="Azure"/>  
+  <img src="assets/icons/databricks.svg" width="40" alt="Databricks"/>  
+  <img src="assets/icons/airflow.svg" width="40" alt="Apache Airflow"/>  
+  <img src="assets/icons/vscode.svg" width="40" alt="VS Code"/>  
 </p>
+
+---
 
 ### Data Visualisation
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=power-automate&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI"/>  
+  <b>Power Automate</b> | <b>Excel</b>  
+  <img src="assets/icons/tableau.png" width="40" alt="Tableau"/>  
 </p>
+
+---
 
 ### Other Tools
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>  
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" alt="Google Colab"/>  
 </p>
 
 ---
@@ -95,12 +102,3 @@ Hierarchical e-commerce product categorization using TF-IDF, SMOTE, and an LR/RF
 - 📊 Executive-ready dashboards for actionable decisions  
 
 ---
-
-## 🗺 Roadmap
-```mermaid
-timeline
-    title 2025 Learning Plan
-    Q3 : Airflow pipelines : schedule + monitor ETL
-    Q3 : Azure/Databricks : lakehouse basics + notebooks
-    Q4 : Spark : scalable transforms + joins
-    Q4 : Portfolio polish : 2 DE projects + 1 BI case study
