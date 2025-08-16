@@ -60,7 +60,7 @@
   <tr>
     <td align="center"><img src="assets/icons/Power_BI.svg" width="55"/><br><span style="font-size:14px;"><b>Power BI</b></span></td>
     <td align="center"><span style="font-size:14px;"><b>Power Automate</b></span></td>
-    <td align="center"><img src="assets/icons/Tableau_Logo.png" width="65"/><br><span style="font-size:14px;"><b>Tableau</b></span></td>
+    <td align="center"><img src="assets/icons/Tableau_Logo.png" width="75"/><br><span style="font-size:14px;"><b>Tableau</b></span></td>
     <td align="center"><span style="font-size:14px;"><b>Excel</b></span></td>
   </tr>
 </table>
