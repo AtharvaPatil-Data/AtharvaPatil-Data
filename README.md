@@ -23,45 +23,57 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="assets/icons/Python.svg" width="40" alt="Python"/>  
-  <img src="assets/icons/SQL.svg" width="40" alt="SQL"/>  
+  <img src="assets/icons/Python.svg" width="40" alt="Python"/><br><b>Python</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/SQL.svg" width="40" alt="SQL"/><br><b>SQL</b>
 </p>
 
 ---
 
 ### Data Analysis & Machine Learning
 <p align="center">
-  <img src="assets/icons/Pandas.svg" width="40" alt="Pandas"/>  
-  <img src="assets/icons/Numpy.svg" width="40" alt="NumPy"/>  
-  <img src="assets/icons/Tensorflow.svg" width="40" alt="TensorFlow"/>  
-  <img src="assets/icons/Scikitlearn.svg" width="40" alt="Scikit-Learn"/>  
+  <img src="assets/icons/Pandas.svg" width="40" alt="Pandas"/><br><b>Pandas</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/Numpy.svg" width="40" alt="NumPy"/><br><b>NumPy</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/Tensorflow.svg" width="40" alt="TensorFlow"/><br><b>TensorFlow</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/Scikitlearn.svg" width="40" alt="Scikit-Learn"/><br><b>Scikit-Learn</b>
 </p>
 
 ---
 
 ### Data Engineering & Cloud
 <p align="center">
-  <img src="assets/icons/Microsoft_Azure.svg" width="40" alt="Azure"/>  
-  <img src="assets/icons/Databricks.svg" width="40" alt="Databricks"/>  
-  <img src="assets/icons/Apacheairflow.svg" width="40" alt="Apache Airflow"/>  
-  <img src="assets/icons/Visual_Studio_Code_1.35_icon.svg" width="40" alt="VS Code"/>  
+  <img src="assets/icons/Microsoft_Azure.svg" width="40" alt="Azure"/><br><b>Azure</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/Databricks.svg" width="40" alt="Databricks"/><br><b>Databricks</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/Apacheairflow.svg" width="40" alt="Apache Airflow"/><br><b>Apache Airflow</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/Visual_Studio_Code_1.35_icon.svg" width="40" alt="VS Code"/><br><b>VS Code</b>
 </p>
 
 ---
 
 ### Data Visualisation
 <p align="center">
-  <img src="assets/icons/Power_BI.svg" width="40" alt="Power BI"/>  
-  <b>Power Automate</b> | <b>Excel</b>  
-  <img src="assets/icons/Tableau_Logo.png" width="40" alt="Tableau"/>  
+  <img src="assets/icons/Power_BI.svg" width="40" alt="Power BI"/><br><b>Power BI</b>
+  &nbsp;&nbsp;&nbsp;
+  <b>Power Automate</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/Tableau_Logo.png" width="40" alt="Tableau"/><br><b>Tableau</b>
+  &nbsp;&nbsp;&nbsp;
+  <b>Excel</b>
 </p>
 
 ---
 
 ### Other Tools
 <p align="center">
-  <img src="assets/icons/Github.svg" width="40" alt="GitHub"/>  
-  <img src="assets/icons/Googlecolab.svg" width="40" alt="Google Colab"/>  
+  <img src="assets/icons/Github.svg" width="40" alt="GitHub"/><br><b>GitHub</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/Googlecolab.svg" width="40" alt="Google Colab"/><br><b>Google Colab</b>
 </p>
 
 ---
