@@ -23,45 +23,45 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>  
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL"/>  
+  <img src="assets/icons/Python.svg" width="40" alt="Python"/>  
+  <img src="assets/icons/SQL.svg" width="40" alt="SQL"/>  
 </p>
 
 ---
 
 ### Data Analysis & Machine Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>  
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/>  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow"/>  
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" alt="Scikit-Learn"/>  
+  <img src="assets/icons/Pandas.svg" width="40" alt="Pandas"/>  
+  <img src="assets/icons/Numpy.svg" width="40" alt="NumPy"/>  
+  <img src="assets/icons/Tensorflow.svg" width="40" alt="TensorFlow"/>  
+  <img src="assets/icons/Scikitlearn.svg" width="40" alt="Scikit-Learn"/>  
 </p>
 
 ---
 
 ### Data Engineering & Cloud
 <p align="center">
-  <img src="assets/icons/azure.svg" width="40" alt="Azure"/>  
-  <img src="assets/icons/databricks.svg" width="40" alt="Databricks"/>  
-  <img src="assets/icons/airflow.svg" width="40" alt="Apache Airflow"/>  
-  <img src="assets/icons/vscode.svg" width="40" alt="VS Code"/>  
+  <img src="assets/icons/Microsoft_Azure.svg" width="40" alt="Azure"/>  
+  <img src="assets/icons/Databricks.svg" width="40" alt="Databricks"/>  
+  <img src="assets/icons/Apacheairflow.svg" width="40" alt="Apache Airflow"/>  
+  <img src="assets/icons/Visual_Studio_Code_1.35_icon.svg" width="40" alt="VS Code"/>  
 </p>
 
 ---
 
 ### Data Visualisation
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI"/>  
+  <img src="assets/icons/Power_BI.svg" width="40" alt="Power BI"/>  
   <b>Power Automate</b> | <b>Excel</b>  
-  <img src="assets/icons/tableau.png" width="40" alt="Tableau"/>  
+  <img src="assets/icons/Tableau_Logo.png" width="40" alt="Tableau"/>  
 </p>
 
 ---
 
 ### Other Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>  
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" alt="Google Colab"/>  
+  <img src="assets/icons/Github.svg" width="40" alt="GitHub"/>  
+  <img src="assets/icons/Googlecolab.svg" width="40" alt="Google Colab"/>  
 </p>
 
 ---
@@ -102,3 +102,12 @@ Hierarchical e-commerce product categorization using TF-IDF, SMOTE, and an LR/RF
 - 📊 Executive-ready dashboards for actionable decisions  
 
 ---
+
+## 🗺 Roadmap
+```mermaid
+timeline
+    title 2025 Learning Plan
+    Q3 : Airflow pipelines : schedule + monitor ETL
+    Q3 : Azure/Databricks : lakehouse basics + notebooks
+    Q4 : Spark : scalable transforms + joins
+    Q4 : Portfolio polish : 2 DE projects + 1 BI case study
