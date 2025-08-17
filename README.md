@@ -90,21 +90,21 @@ A two-stage cascaded deep learning framework using ResNet50 for accurate early a
 ### 💳 Loan Defaulter Risk Model
 Machine learning model to predict loan default risk using borrower profiles, credit history, and financial features.  
 **Tech:** Python, scikit-learn, imbalanced-learn, EDA  
-🔗 [View Repository](https://github.com/YOUR_USERNAME/loan-defaulter-risk-model)
+🔗 [View Repository](https://github.com/AtharvaPatil-Data/loan-defaulter-risk-model)
 
 ---
 
 ### 📈 Flight Traffic Visualization
 Visualizing busiest airline routes (2015–2019) using Python + Tableau.  
 **Tech:** Tableau, Pandas, Matplotlib  
-🔗 [View Repository](https://github.com/YOUR_USERNAME/Flight-Traffic-Visualization)
+🔗 [View Repository](https://github.com/AtharvaPatil-Data/Flight-Traffic-Visualization)
 
 ---
 
 ### 🛒 E-commerce Product Categorization
 Hierarchical e-commerce product categorization using TF-IDF, SMOTE, and an LR/RF/LightGBM ensemble.  
 **Tech:** Python, scikit-learn, LightGBM  
-🔗 [View Repository](https://github.com/YOUR_USERNAME/Ecommerce-Product-Categorization)
+🔗 [View Repository](https://github.com/AtharvaPatil-Data/Ecommerce-Product-Categorization)
 
 ---
 
