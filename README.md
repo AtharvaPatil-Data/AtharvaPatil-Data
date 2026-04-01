@@ -16,7 +16,6 @@
 🧰 Building **Data Analytics** and **Data Engineering** projects that deliver measurable business impact  
 🇮🇪 Based in Ireland targeting **Data Analyst** & **Data Engineer** roles  
 📜 Certifications: Microsoft Certified (PL-300, DP-700, DP-900, AI-102) | AWS Certified Data Engineer – Associate
-
 ⚙️ Currently learning **Airflow • Spark • Azure Databricks • AWS**
 
 ---
