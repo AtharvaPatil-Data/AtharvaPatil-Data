@@ -14,7 +14,7 @@
 ## 📌 About Me
 🎓 MSc in Data Analytics (Dublin City University)  
 🧰 Building **Data Analytics** and **Data Engineering** projects that deliver measurable business impact  
-🇮🇪 Based in Ireland — targeting **Data Analyst** & **Data Engineer** roles   
+🇮🇪 Based in Ireland targeting **Data Analyst** & **Data Engineer** roles   
 🧭 Currently learning **Airflow • Spark • Azure Databricks**
 
 ---
