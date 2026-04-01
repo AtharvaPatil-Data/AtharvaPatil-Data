@@ -48,6 +48,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="assets/icons/Microsoft_Azure.svg" width="55"/><br><span style="font-size:14px;"><b>Azure</b></td>
+    <td align="center"><img src="assets/icons/Amazon_Web_Services.svg" width="55"/><br><span style="font-size:14px;"><b>AWS</b></span></td>
     <td align="center"><img src="assets/icons/Databricks.svg" width="55"/><br><span style="font-size:14px;"><b>Databricks</b></td>
     <td align="center"><img src="assets/icons/Apacheairflow.svg" width="55"/><br><span style="font-size:14px;"><b>Airflow</b></td>
   </tr>
