@@ -81,7 +81,7 @@
 Stress-testing financial LLMs (Qwen2.5-3B) across 4 environments baseline, panic, pressure, and prompt injection — with cognitive bias detection (Kahneman & Tversky) and emotional contagion analysis.  
 **Results:** 86.7% baseline safety · 17.8% attack success rate  
 **Tech:** PyTorch, Hugging Face Transformers, BART-MNLI, Streamlit, Plotly  
-🔗 [Repository](https://github.com/AtharvaPatil-Data/FinStress-LLM) · 🌐 [Live Demo]([https://finstress-llm-tj4ch2fnks25ekbubrfd8i.streamlit.app/])
+🔗 [Repository](https://github.com/AtharvaPatil-Data/FinStress-LLM) · 🌐 [Live Demo](https://finstress-llm-tj4ch2fnks25ekbubrfd8i.streamlit.app/)
 
 ---
 
