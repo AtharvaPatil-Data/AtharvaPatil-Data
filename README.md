@@ -18,11 +18,10 @@
 ---
 
 ## 📌 About Me
-- 🎓 **MSc in Computing (Data Analytics)** Dublin City University, Ireland
+- 🎓 **MSc in Computing (Data Analytics)** — Dublin City University, Ireland
 - 🔬 Researching **LLM safety, adversarial robustness, and interpretability** for financial decision-making
 - 🎯 Pursuing a **PhD in Interpretable & Behavioural Risk Assessment of Language Models** (DCU)
 - 💼 Building production-grade **Data Analytics** and **Data Engineering** projects
-- 📜 Certifications: **PL-300 · DP-700 · DP-900 · AI-102** (Microsoft) | **AWS Data Engineer – Associate**
 - 🇮🇪 Based in Dublin, Ireland
 
 ---
@@ -163,11 +162,14 @@ Visualizing busiest airline routes (2015–2019) using Python + Tableau.
 
 ---
 
-## 📈 GitHub Stats
+## 📜 Certifications
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaPatil-Data&show_icons=true&theme=github_dark&hide_border=true&icon_color=FFD580&title_color=FFD580&text_color=FFFFFF" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=AtharvaPatil-Data&theme=github-dark-blue&hide_border=true&ring=FFD580&fire=FFD580&currStreakLabel=FFD580" height="170" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/AWS-Data_Engineer_Associate-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS DEA" />
+  <img src="https://img.shields.io/badge/Microsoft-PL--300_Power_BI-0078D4?logo=microsoftpowerbi&logoColor=white&style=for-the-badge" alt="PL-300" />
+  <img src="https://img.shields.io/badge/Microsoft-DP--700_Fabric-0078D4?logo=microsoft&logoColor=white&style=for-the-badge" alt="DP-700" />
+  <img src="https://img.shields.io/badge/Microsoft-DP--900_Azure_Data-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="DP-900" />
+  <img src="https://img.shields.io/badge/Microsoft-AI--102_Azure_AI-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="AI-102" />
 </p>
 
 ---
