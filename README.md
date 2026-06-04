@@ -1,6 +1,6 @@
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2500&pause=900&color=FFD580&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Atharva+Patil;NLP+%26+LLM+Safety+Researcher;Data+Analyst+%7C+Data+Engineer;Python+%E2%80%A2+PyTorch+%E2%80%A2+SQL+%E2%80%A2+Azure+%E2%80%A2+Power+BI" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2500&pause=900&color=FFD580&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Atharva+Patil;Data+Analyst+%7C+Data+Engineer;NLP+%26+LLM+Safety+Researcher;Python+%E2%80%A2+PyTorch+%E2%80%A2+SQL+%E2%80%A2+Azure+%E2%80%A2+Power+BI" alt="Typing intro" />
 </p>
 
 <!-- Social links -->
