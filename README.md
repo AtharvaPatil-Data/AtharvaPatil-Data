@@ -10,11 +10,6 @@
   <a href="https://github.com/AtharvaPatil-Data"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtharvaPatil-Data&style=flat-square&color=FFD580&label=Profile+Views" alt="Profile views" />
-</p>
-
 ---
 
 ## 📌 About Me
