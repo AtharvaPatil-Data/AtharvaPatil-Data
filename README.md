@@ -18,7 +18,7 @@
 ---
 
 ## 📌 About Me
-- 🎓 **MSc in Computing (Data Analytics)** — Dublin City University, Ireland
+- 🎓 **MSc in Computing (Data Analytics)** Dublin City University, Ireland
 - 🔬 Researching **LLM safety, adversarial robustness, and interpretability** for financial decision-making
 - 🎯 Pursuing a **PhD in Interpretable & Behavioural Risk Assessment of Language Models** (DCU)
 - 💼 Building production-grade **Data Analytics** and **Data Engineering** projects
@@ -82,15 +82,15 @@
 
 ## 🔬 LLM Research Projects
 
-### 🛡️ FinStress-LLM — Adversarial Robustness Evaluation
-Stress-testing financial LLMs (Qwen2.5-3B) across 4 environments — baseline, panic, pressure, and prompt injection — with cognitive bias detection (Kahneman & Tversky) and emotional contagion analysis.  
+### 🛡️ FinStress-LLM Adversarial Robustness Evaluation
+Stress-testing financial LLMs (Qwen2.5-3B) across 4 environments baseline, panic, pressure, and prompt injection — with cognitive bias detection (Kahneman & Tversky) and emotional contagion analysis.  
 **Results:** 86.7% baseline safety · 17.8% attack success rate  
 **Tech:** PyTorch, Hugging Face Transformers, BART-MNLI, Streamlit, Plotly  
 🔗 [Repository](https://github.com/AtharvaPatil-Data/FinStress-LLM) · 🌐 [Live Demo](https://finstress-llm.streamlit.app)
 
 ---
 
-### 📐 LLM-Uncertainty-Calibrator — Calibration & Conformal Prediction
+### 📐 LLM-Uncertainty-Calibrator Calibration & Conformal Prediction
 Statistical calibration of FinBERT on financial sentiment using Temperature Scaling, Platt Scaling, and Conformal Prediction to quantify and reduce model overconfidence.  
 **Results:** 56% ECE reduction (0.095 → 0.041) · 91.7% conformal coverage · avg set size 1.54  
 **Tech:** PyTorch, Hugging Face Transformers, Scikit-Learn, Streamlit, Plotly  
@@ -98,9 +98,9 @@ Statistical calibration of FinBERT on financial sentiment using Temperature Scal
 
 ---
 
-### 🔍 FinExplain-LLM — Token-Level Explainability
-Comparing three attribution methods — Integrated Gradients, Attention Rollout, and Leave-One-Out — on FinBERT financial sentiment to measure whether explainability methods actually agree.  
-**Key finding:** Methods largely disagree (IG-vs-Attn ρ = 0.10, IG-vs-LOO ρ = 0.31) — choosing one method alone gives an incomplete picture.  
+### 🔍 FinExplain-LLM Token-Level Explainability
+Comparing three attribution methods Integrated Gradients, Attention Rollout, and Leave-One-Out on FinBERT financial sentiment to measure whether explainability methods actually agree.  
+**Key finding:** Methods largely disagree (IG-vs-Attn ρ = 0.10, IG-vs-LOO ρ = 0.31) choosing one method alone gives an incomplete picture.  
 **Tech:** PyTorch, Captum, Hugging Face Transformers, Streamlit, Plotly  
 🔗 [Repository](https://github.com/AtharvaPatil-Data/FinExplain-LLM) · 🌐 [Live Demo](https://finexplain-llm.streamlit.app)
 
@@ -156,8 +156,8 @@ Visualizing busiest airline routes (2015–2019) using Python + Tableau.
 |---|---|
 | 🛡️ LLM Safety | **86.7%** baseline safety score, **17.8%** attack success across 4 adversarial environments |
 | 📐 Calibration | **56%** ECE reduction via temperature scaling, **91.7%** conformal coverage |
-| 🔍 Explainability | 3 attribution methods compared — surfaced low inter-method agreement (ρ = 0.10–0.31) |
-| 💳 Risk Modelling | **0.99 recall** on loan defaulters — fewer missed high-risk customers |
+| 🔍 Explainability | 3 attribution methods compared surfaced low inter-method agreement (ρ = 0.10–0.31) |
+| 💳 Risk Modelling | **0.99 recall** on loan defaulters fewer missed high-risk customers |
 | ⚡ Automation | Cleaning scripts → **~40% faster** preprocessing pipelines |
 
 ---
