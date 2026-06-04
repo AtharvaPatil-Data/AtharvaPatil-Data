@@ -166,6 +166,7 @@ Visualizing busiest airline routes (2015–2019) using Python + Tableau.
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Data_Engineer_Associate-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS DEA" />
+  <img src="https://img.shields.io/badge/AWS-CloudOps_Engineer_Associate-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS CloudOps" />
   <img src="https://img.shields.io/badge/Microsoft-PL--300_Power_BI-0078D4?logo=microsoftpowerbi&logoColor=white&style=for-the-badge" alt="PL-300" />
   <img src="https://img.shields.io/badge/Microsoft-DP--700_Fabric-0078D4?logo=microsoft&logoColor=white&style=for-the-badge" alt="DP-700" />
   <img src="https://img.shields.io/badge/Microsoft-DP--900_Azure_Data-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="DP-900" />
