@@ -28,7 +28,7 @@
   <tr>
     <td align="center"><img src="assets/icons/Python.svg" width="55"/><br><b>Python</b></td>
     <td align="center"><img src="assets/icons/SQL.svg" width="55"/><br><b>SQL</b></td>
-    <td align="center"><img src="assets/icons/Pytorch.svg" width="55"/><br><b>PyTorch</b></td>
+    <td align="center"><img src="assets/icons/pytorch-svgrepo-com.svg" width="55"/><br><b>PyTorch</b></td>
     <td align="center"><img src="assets/icons/hugging-face-svgrepo-com.svg" width="55"/><br><b>Hugging Face</b></td>
     <td align="center"><img src="assets/icons/Tensorflow.svg" width="55"/><br><b>TensorFlow</b></td>
     <td align="center"><img src="assets/icons/Scikitlearn.svg" width="55"/><br><b>Scikit-Learn</b></td>
@@ -43,7 +43,7 @@
     <td align="center"><img src="assets/icons/Pandas.svg" width="55"/><br><b>Pandas</b></td>
     <td align="center"><img src="assets/icons/Numpy.svg" width="55"/><br><b>NumPy</b></td>
     <td align="center"><img src="assets/icons/Plotly.svg" width="55"/><br><b>Plotly</b></td>
-    <td align="center"><img src="assets/icons/Streamlit.svg" width="55"/><br><b>Streamlit</b></td>
+    <td align="center"><img src="assets/icons/streamlit-icon.png" width="55"/><br><b>Streamlit</b></td>
     <td align="center"><img src="assets/icons/Power_BI.svg" width="55"/><br><b>Power BI</b></td>
     <td align="center"><img src="assets/icons/Tableau_Logo.png" width="75"/><br><b>Tableau</b></td>
   </tr>
