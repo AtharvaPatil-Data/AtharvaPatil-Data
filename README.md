@@ -29,7 +29,7 @@
     <td align="center"><img src="assets/icons/Python.svg" width="55"/><br><b>Python</b></td>
     <td align="center"><img src="assets/icons/SQL.svg" width="55"/><br><b>SQL</b></td>
     <td align="center"><img src="assets/icons/Pytorch.svg" width="55"/><br><b>PyTorch</b></td>
-    <td align="center"><img src="assets/icons/Huggingface.svg" width="55"/><br><b>Hugging Face</b></td>
+    <td align="center"><img src="assets/icons/hugging-face-svgrepo-com.svg" width="55"/><br><b>Hugging Face</b></td>
     <td align="center"><img src="assets/icons/Tensorflow.svg" width="55"/><br><b>TensorFlow</b></td>
     <td align="center"><img src="assets/icons/Scikitlearn.svg" width="55"/><br><b>Scikit-Learn</b></td>
   </tr>
