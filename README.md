@@ -18,7 +18,7 @@
 ---
 
 ## 📌 About Me
-- 🎓 **MSc in Computing (Data Analytics)** — Dublin City University, Ireland
+- 🎓 **MSc in Computing (Data Analytics)** Dublin City University, Ireland
 - 🔬 Researching **LLM safety, adversarial robustness, and interpretability** for financial decision-making
 - 🎯 Pursuing a **PhD in Interpretable & Behavioural Risk Assessment of Language Models** (DCU)
 - 💼 Building production-grade **Data Analytics** and **Data Engineering** projects
@@ -167,7 +167,7 @@ Visualizing busiest airline routes (2015–2019) using Python + Tableau.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtharvaPatil-Data&show_icons=true&theme=github_dark&hide_border=true&icon_color=FFD580&title_color=FFD580&text_color=FFFFFF" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPatil-Data&theme=github-dark-blue&hide_border=true&ring=FFD580&fire=FFD580&currStreakLabel=FFD580" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AtharvaPatil-Data&theme=github-dark-blue&hide_border=true&ring=FFD580&fire=FFD580&currStreakLabel=FFD580" height="170" alt="GitHub Streak" />
 </p>
 
 ---
