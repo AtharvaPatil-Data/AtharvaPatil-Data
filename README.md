@@ -97,7 +97,7 @@ Statistical calibration of FinBERT on financial sentiment using Temperature Scal
 Comparing three attribution methods Integrated Gradients, Attention Rollout, and Leave-One-Out on FinBERT financial sentiment to measure whether explainability methods actually agree.  
 **Key finding:** Methods largely disagree (IG-vs-Attn ρ = 0.10, IG-vs-LOO ρ = 0.31) — choosing one method alone gives an incomplete picture.  
 **Tech:** PyTorch, Captum, Hugging Face Transformers, Streamlit, Plotly  
-🔗 [Repository](https://github.com/AtharvaPatil-Data/FinExplain-LLM) · 🌐 [Live Demo](https://finexplain-llm.streamlit.app)
+🔗 [Repository](https://github.com/AtharvaPatil-Data/FinExplain-LLM) · 🌐 [Live Demo](https://finexplain-llm-gxg8awolizpezg8th9qotf.streamlit.app/)
 
 ---
 
