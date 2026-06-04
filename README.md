@@ -42,7 +42,7 @@
   <tr>
     <td align="center"><img src="assets/icons/Pandas.svg" width="55"/><br><b>Pandas</b></td>
     <td align="center"><img src="assets/icons/Numpy.svg" width="55"/><br><b>NumPy</b></td>
-    <td align="center"><img src="assets/icons/Plotly.svg" width="55"/><br><b>Plotly</b></td>
+    <td align="center"><img src="assets/icons/plotly-official.svg" width="55"/><br><b>Plotly</b></td>
     <td align="center"><img src="assets/icons/streamlit-icon.png" width="55"/><br><b>Streamlit</b></td>
     <td align="center"><img src="assets/icons/Power_BI.svg" width="55"/><br><b>Power BI</b></td>
     <td align="center"><img src="assets/icons/Tableau_Logo.png" width="75"/><br><b>Tableau</b></td>
